@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    { "id": 1, "title": "Create layout according to Figma", "completed": false },
+    { "id": 2, "title": "Apply responsive design", "completed": false },
+    { "id": 3, "title": "Load dynamic elements using JSON", "completed": false },
+    { "id": 4, "title": "Submit project to GitHub", "completed": true }
+  ]
+}
